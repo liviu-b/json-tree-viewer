@@ -1,7 +1,3 @@
-Certainly! Here’s a draft README for the JSON Tree Viewer project on GitHub:
-
----
-
 # JSON Tree Viewer
 
 
