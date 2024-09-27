@@ -4,7 +4,7 @@
 JSON Tree Viewer is a simple and intuitive tool for visualizing JSON data in a tree format. It allows users to easily navigate through complex JSON structures, making it easier to explore and understand nested data.
 
 ## Features
-
+ 
 - **Tree View:** Display JSON data in a hierarchical tree structure.
 - **Load JSON:** Load JSON data from a file or paste it directly into the viewer.
 
